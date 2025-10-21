@@ -2,14 +2,14 @@
 
 ## 專案說明
 此專案為團隊專題的一部分，我負責後端模組：
-- Controller：API 路由
-- Service
-- DAO / Repository
-- Bean/ Entity
+- Bean / Model：資料表對應
+- Repository / DAO：資料庫存取
+- Service：業務邏輯
+- Controller：API 路由與 CRUD
+
 ## 技術棧
 - Spring Boot
 - Spring Data JPA
-- SQL
 - RESTful API
 
 ## 注意
